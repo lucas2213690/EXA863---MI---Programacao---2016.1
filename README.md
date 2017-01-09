@@ -1,1 +1,3 @@
-# MI-Programa-o-2016.2
+# EXA863 - MI-Programação UEFS-2016.1
+
+## Este repositório contém meus códigos referentes ao MI de Programação (Java)
